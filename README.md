@@ -1,6 +1,6 @@
-[![make.fun](https://make.fun/badge/best-game-01)](https://make.fun/bounty/best-game-01)
-[![rank](https://make.fun/badge/best-game-01/9vSzBPphkDoHMBPy3Q3nLRKxzT5fwDcyDVhxHnq6bk9n/best-game-01/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard)
-[![reward](https://make.fun/badge/best-game-01/9vSzBPphkDoHMBPy3Q3nLRKxzT5fwDcyDVhxHnq6bk9n/best-game-01/reward.svg)](https://make.fun/bounty/best-game-01)
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/ayukwulan/dustline-best-game/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/ayukwulan/dustline-best-game/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 # DUSTLINE — Take the yard. Hold the line.
 
@@ -68,5 +68,3 @@ library copies the game and screenshots and writes the kit's deterministic
 `out/dossier.json`. Running the command again replaces those folders cleanly.
 
 MIT license for DUSTLINE. The three.js license is beside its local builds.
-The two repository badges currently use the public owner address from
-`.makefun/owner.json` because this checkout has no Git remote.
